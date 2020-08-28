@@ -1,0 +1,3 @@
+var声明变量存在变量提升，let和const不存在变量提升
+let、const都是块级局部变量,const声明时候必须赋值,且const只能进行一次赋值，即声明后不能再修改
+同一作用域下let和const不能声明同名变量，而var可以
